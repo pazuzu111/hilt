@@ -1,3 +1,3 @@
 # architecture
 
-![hiltonDesign](https://user-images.githubusercontent.com/31411569/84300518-6761fe80-ab20-11ea-90e4-0b6edd8752bd.png)
+![hiltonDesign (1)](https://user-images.githubusercontent.com/31411569/84823599-9da1f100-afec-11ea-9e78-04bdcbf4ef0f.png)
