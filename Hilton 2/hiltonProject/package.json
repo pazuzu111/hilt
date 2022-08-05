@@ -23,7 +23,7 @@
     "graphql": "^14.3.0",
     "graphql-tools": "^4.0.4",
     "mongodb": "^3.2.4",
-    "mongoose": "^5.5.7",
+    "mongoose": "^5.7.5",
     "nodemon": "^1.19.0",
     "typescript": "^3.4.5"
   }
